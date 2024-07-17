@@ -5,7 +5,7 @@ MealEase 2.0 is an innovative platform designed to simplify culinary experiences
 ## Features
 
 - **Personalized Meal Suggestions:** Input your available ingredients to receive tailored meal suggestions.
-- **Detailed Recipes:** Get comprehensive recipes including ingredients, instructions, and nutritional information.
+- **Recipes:** Get comprehensive recipes including ingredients and instructions.
 - **Full-Stack Implementation:** Utilizes MongoDB for database management, Express for backend API development, React.js for dynamic frontend interfaces, and Node.js for server-side logic.
 
 ## Tech Stack
